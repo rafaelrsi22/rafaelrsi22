@@ -21,6 +21,12 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
+  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://dotnet.microsoft.com/pt-br/apps/aspnet" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="40" height="40"/> 
+  </a> 
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="nestjs" width="40" height="40"/> 
   </a> 
@@ -72,12 +78,6 @@
 </p>
 <h3 align="left">Languages and Tools I'm Studying:</h3>
 <p align="left">
-  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/pt-br/apps/aspnet" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="40" height="40"/> 
-  </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
   </a> 
