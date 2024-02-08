@@ -2,12 +2,7 @@
 <h3 align="center">Software Developer</h3>
 <h3 align="center">⚡ Computer Science student</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rafael-godoy-389674254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/icaro-borges-805b3928a/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools I Know:</h3>
+<h2 align="left">Languages and Tools I Know:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
@@ -32,7 +27,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="react" width="40" height="40"/></a> 
 </p>
-<h3 align="left">Languages and Tools I'm Studying:</h3>
+<h2 align="left">Languages and Tools I'm Studying:</h3>
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
@@ -44,7 +39,12 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 </p>
 <p align="left">
-  <b>And not only this languages, but I'm also now interested In studies of Microservices, Design Patterns and CI/CD.</b>
+  For now interested In studies of Microservices, Design Patterns and CI/CD.
+</p>
+
+<h3 align="left">I'm willing to team up for all types of challenges, contact me!</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rafael-godoy-389674254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/icaro-borges-805b3928a/" height="30" width="40" /></a>
 </p>
 
 <!--
