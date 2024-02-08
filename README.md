@@ -43,6 +43,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 </p>
+<p align="center">
+  And not only this languages, but I'm also now interested In studies of Microservices, Design Patterns and CI/CD.
+</p>
 
 <!--
 **rafaelrsi22/rafaelrsi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
