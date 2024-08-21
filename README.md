@@ -36,9 +36,6 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpackcompose" width="40" height="40"/></a>
 </p>
-<p align="left">
-  For now interested In studies of Microservices, Design Patterns and CI/CD.
-</p>
 
 <h3 align="left">I'm willing to team up for all types of challenges, contact me!</h3>
 <p align="left">
