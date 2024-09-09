@@ -35,6 +35,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpackcompose" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
 </p>
 
 <h3 align="left">I'm willing to team up for all types of challenges, contact me!</h3>
