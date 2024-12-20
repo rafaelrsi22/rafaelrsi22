@@ -28,8 +28,8 @@
 </p>
 <h2 align="left">Languages and Tools I'm Studying:</h3>
 <p align="left">
-  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
+  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /></a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">I'm willing to team up for all types of challenges, contact me!</h3>
