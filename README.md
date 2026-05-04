@@ -7,13 +7,14 @@
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
     </a>
   </p>
+  <p>Software developer and Roblox Scripter.</p>
 </div>
 
 ---
 
 <div align="center">
   <h2>Professional Overview</h2>
-  <p>Software developer and Roblox Scripter.</p>
+  
 </div>
 
 ---
