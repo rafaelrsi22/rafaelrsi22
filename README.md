@@ -13,7 +13,6 @@
 
 <div align="center">
   <h2>Professional Overview</h2>
-  <hr>
   <p>Software developer and Roblox Scripter.</p>
 </div>
 
