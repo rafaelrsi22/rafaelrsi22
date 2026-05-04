@@ -12,7 +12,7 @@
 ---
 
 ### Professional Overview
-Software developer and Roblox Scripter.
+<p>Software developer and Roblox Scripter.</p>
 
 ---
 
