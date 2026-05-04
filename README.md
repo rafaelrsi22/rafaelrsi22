@@ -12,7 +12,8 @@
 ---
 
 <div align="center">
-  ### Professional Overview
+  <h2>Professional Overview</h2>
+  <hr>
   <p>Software developer and Roblox Scripter.</p>
 </div>
 
