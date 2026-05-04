@@ -12,9 +12,7 @@
 ---
 
 ### Professional Overview
-I am a software developer and Roblox game creator focused on technical scripting and systems integration. Currently, I am working on payment security projects, such as KYC integrations, and developing market systems for gaming platforms.
-
-Outside of backend and game dev, I am dedicated to learning Japanese and exploring nature-oriented photography.
+Software developer and Roblox Scripter.
 
 ---
 
